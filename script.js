@@ -10,7 +10,7 @@ const noBtn = document.querySelector(".no-btn");
 
 yesBtn.addEventListener("click", () => {
 
-question.innerHTML = "Aaaaa i miss you too";
+question.innerHTML = "Yhahaha hayyuuukk";
 
 gif.src =
 
